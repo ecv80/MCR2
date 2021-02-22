@@ -1,0 +1,4 @@
+#Mon Feb 22 19:31:05 CET 2021
+base.0=/home/ecv/UnityProjects/Missile Command Recharged Clone/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
